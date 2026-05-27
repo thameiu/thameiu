@@ -1,7 +1,7 @@
 <h1 align="center">Hello, thameiu here</h1>
 <b align="center">Full-stack developper ⬟ Web design enthusiast ⯂ Apprentice @ ACD ⬟ MSc1 Cybersecurity+Cloud student at Epitech, Marseille</b>
 
-<em align="center">also known as mathieu or the windev guy</em>
+*<p align="center">also known as mathieu or the windev guy</p>*
 
 📝 currently designing ***Dumpem***, a **high-speed** desktop **sticky notes** app
 
