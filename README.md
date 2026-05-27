@@ -9,8 +9,7 @@
 
 ✎ Currently designing ***Dumpem***, a **high-speed** desktop **sticky notes** app
 
-▥ Recently published ***[RGBAST](https://www.rgbast.com/)***, a web app for **color palette versioning** and **generation**
-unique **Bast Score**© and **3D color picker** included!!!
+▥ Recently published ***[RGBAST](https://www.rgbast.com/)***, a web app for **color palette versioning** and **generation** (unique **Bast Score**© and **3D color picker** included!!!)
 
 <br/> 
 <br/> 
