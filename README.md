@@ -18,4 +18,7 @@
 
 ---
 
-→ *[portfolio](https://www.mathieu-hernandez.fr/)* → *[linkedin](https://www.linkedin.com/in/mathieu-hernandez-dev/)*
+<div align="center">
+  <em>[portfolio](https://www.mathieu-hernandez.fr/)</em> ⬟
+  <em>[linkedin](https://www.linkedin.com/in/mathieu-hernandez-dev/)</em>
+</div>
