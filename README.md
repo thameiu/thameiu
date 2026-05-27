@@ -12,4 +12,4 @@
 ▥ Recently published ***[RGBAST](https://www.rgbast.com/)***, a web app for **color palette versioning** and **generation**
 unique **Bast Score** and **3D color picker** included!!!
 
-<img width="400" height="400" alt="cats" src="https://github.com/user-attachments/assets/069f9337-c947-4b99-8cce-48d0c22c3606" />
+<img width="400" height="400" alt="cats" src="https://github.com/user-attachments/assets/069f9337-c947-4b99-8cce-48d0c22c3606" align="center"/>
