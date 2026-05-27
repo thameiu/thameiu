@@ -1,7 +1,7 @@
 <h1 align="center">☺ hello, thameiu here ☺</h1>
 
 <p align="center">
-  <strong>full-stack developer ⬟ web design enthusiast ⯁ apprentice @ ACD ⬟ msc1 cybersecurity+cloud student at Epitech, Marseille</strong>
+  <strong>full-stack developer ⬟ web design enthusiast ⬟ apprentice @ ACD ⬟ msc1 cybersecurity+cloud student at Epitech, Marseille</strong>
   <br/>
   <em>also known as mathieu or the WinDev® guy</em>
 </p>
