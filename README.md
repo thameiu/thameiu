@@ -1,9 +1,12 @@
 ## hello, thameiu here
 ### also known as mathieu or the windev guy
-<img width="400" height="400" alt="cats" src="https://github.com/user-attachments/assets/069f9337-c947-4b99-8cce-48d0c22c3606" />
+
 ---
 
-📝 currently designing Dumpem, a high-speed desktop sticky notes app
+📝 currently designing *Dumpem*, a *high-speed* desktop *sticky notes* app
 
-🎨 recently published [RGBAST](https://www.rgbast.com/), a web app for color paletteversioning and generation 
-unique Bast Score and 3D color picker included!!!
+🎨 recently published *[RGBAST](https://www.rgbast.com/)*, a web app for *color palette versioning* and *generation*
+unique *Bast Score* and *3D color picker* included!!!
+
+---
+<img width="400" height="400" alt="cats" src="https://github.com/user-attachments/assets/069f9337-c947-4b99-8cce-48d0c22c3606" />
