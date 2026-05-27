@@ -1,6 +1,10 @@
 <h1 align="center">Hello, thameiu here</h1>
 
-<p align="center">**Full-stack developper ⬟ Web design enthusiast ⯂ Apprentice @ ACD ⬟ MSc1 Cybersecurity+Cloud student at Epitech, Marseille**</br>*also known as mathieu or the windev guy*</p>
+<p align="center">
+  <strong>Full-stack developer ⬟ Web design enthusiast ⯂ Apprentice @ ACD ⬟ MSc1 Cybersecurity + Cloud student at Epitech, Marseille</strong>
+  <br/>
+  <em>also known as Mathieu or the WinDev guy</em>
+</p>
 
 📝 currently designing ***Dumpem***, a **high-speed** desktop **sticky notes** app
 
