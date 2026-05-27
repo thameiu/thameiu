@@ -15,3 +15,5 @@
 <br/> 
 
 <div align="center" justify-content="center"><img width="400" height="400" alt="cats" src="https://github.com/user-attachments/assets/069f9337-c947-4b99-8cce-48d0c22c3606" /></div>
+---
+→ *[portfolio](https://www.mathieu-hernandez.fr/)* → *[linkedin](https://www.linkedin.com/in/mathieu-hernandez-dev/)*
