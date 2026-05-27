@@ -19,6 +19,6 @@
 <br/> 
 
 <div align="center">
-  <a href="https://www.mathieu-hernandez.fr/"><img width="88" height="31" alt="portfolio"  style="border-radius:0;" src="https://github.com/user-attachments/assets/e5c1750d-ef55-41b2-a6d2-7d0afd63e2f8" /></a>
-  <a href="https://www.linkedin.com/in/mathieu-hernandez-dev/"><img width="88" height="31" alt="Linkedin-logo"  style="border-radius:0;" src="https://github.com/user-attachments/assets/0919e2ac-3cdd-4f6f-a841-f7ae82b2f291" /></a>
+  <a href="https://www.mathieu-hernandez.fr/"><img width="88" height="31" alt="portfolio" src="https://github.com/user-attachments/assets/e5c1750d-ef55-41b2-a6d2-7d0afd63e2f8" /></a>
+  <a href="https://www.linkedin.com/in/mathieu-hernandez-dev/"><img width="88" height="31" alt="Linkedin-logo" src="https://github.com/user-attachments/assets/0919e2ac-3cdd-4f6f-a841-f7ae82b2f291" /></a>
 </div>
